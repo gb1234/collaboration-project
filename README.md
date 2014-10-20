@@ -8,3 +8,4 @@ This is a sample for the webinar on GitHub collaboration and workflows.
 * @githubteacher
 * @githubstudent
 * @brntbeer
+* @brn
